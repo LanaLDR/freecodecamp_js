@@ -1,5 +1,3 @@
-let character = "Hello";
-let profession = 'teacher';
-let age;
-console.log(profession);
-console.log(age);
+let character = 'Hello';
+let count = 8;
+let rows = ['Naomi', 'Quincy', 'CamperChan'];
