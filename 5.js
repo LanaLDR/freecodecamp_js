@@ -2,7 +2,7 @@ const character = "#";
 const count = 8;
 const rows = [];
 
-function padRow() {
+function padRow(name) {
   return "Hello!";
 }
 const call = padRow();
