@@ -5,7 +5,7 @@ const rows = [];
 function padRow(name) {
   return name;
 }
-const call = padRow();
+const call = padRow("Kirill");
 console.log(call);
 
 
