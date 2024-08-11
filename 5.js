@@ -5,7 +5,14 @@ const rows = [];
 function padRow(name) {
   return name;
 }
-const call = padRow("Kirill");
+function addTwoNumbers(a, b) {
+  return a+b;
+}
+
+let sum = addTwoNumbers(5, 10);
+console.log(sum);
+
+const call = padRow("CamperChan");
 console.log(call);
 
 
